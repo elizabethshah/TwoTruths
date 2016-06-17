@@ -1,7 +1,5 @@
-##Two Truths and a Lie
+##Two Truths
 
-1. My birthday is April 9th
+1. My birthday is April 9t
 
-2. I have a cat
-
-3. I am bad at basketball
+2. I am bad at basketball
